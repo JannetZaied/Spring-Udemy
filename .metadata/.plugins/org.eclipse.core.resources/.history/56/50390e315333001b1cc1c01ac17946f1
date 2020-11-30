@@ -1,0 +1,13 @@
+package com.jannet.test;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class FirsttestStsApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(FirsttestStsApplication.class, args);
+	}
+
+}

@@ -1,0 +1,11 @@
+package com.jannet.test;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class Happiness {
+	Feelings feel;
+public void code() {
+	
+feel.feels();}
+}
